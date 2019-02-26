@@ -1,4 +1,4 @@
-# Zoo
+# GAN for MNIST
 
 Example to develop a GAN with the MNIST dataset.
 
